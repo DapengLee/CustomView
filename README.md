@@ -6,15 +6,15 @@
 * 我也在不断总结，如何用高效的方式来系统学习这些优秀的知识，并把它们转化为自己的知识，让自己更有核心竞争力。
 
 
-##自定义view文章
+###自定义view文章
 * [**Android自定义控件三部曲文章**](http://blog.csdn.net/harvic880925/article/details/50995268) 
 
 
 
-##动画
+###动画
 
 
-###Menu篇
+####Menu篇
 * [Menu篇文章](http://www.jianshu.com/p/e04690cba093)
 
 | 链接 | 说明 | 预览 |
@@ -25,7 +25,7 @@
 
 
 
-###Activity切换篇
+####Activity切换篇
 | 链接 | 说明 | 预览 |
 | :--: | :--: | :--: |
 |[https://github.com/githubwing/WingUE](https://github.com/githubwing/WingUE)|仿饿了吗无缝切换搜索动画|<img src="art/img_ele.gif" width='240' height='360'  /> |
