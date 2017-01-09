@@ -7,7 +7,8 @@
 
 
 ###自定义view文章
-* [**Android自定义控件三部曲文章**](http://blog.csdn.net/harvic880925/article/details/50995268) 
+* [**Android自定义控件三部曲文章**](http://blog.csdn.net/harvic880925/article/details/50995268)
+* [**Android ViewDragHelper源码解析**](http://www.cnblogs.com/lqstayreal/p/4500219.html) 
 
 
 
