@@ -34,5 +34,9 @@
 
 
 
+####项目篇
+| 链接 | 说明 | 预览 |
+| :--: | :--: | :--: |
+|[https://github.com/nickbutcher/plaid](https://github.com/nickbutcher/plaid)|Plaid is a showcase of material design that we hope you will keep installed. It pulls in news & inspiration from Designer News, Dribbble & Product Hunt. It demonstrates the use of material principles to create tactile, bold, understandable UIs.|<img src="art/plaid_demo.gif" width="300" height='180'> |
 
 	
