@@ -27,6 +27,16 @@
 
 
 
+
+###视图篇
+| 链接 | 说明 | 预览 |
+| :--: | :--: | :--: |
+|[https://github.com/Ramotion/folding-cell-android/](https://github.com/Ramotion/folding-cell-android/)|FoldingCell is an expanding content cell inspired by folding paper material|<img src="art/folding_cell_preview.gif" width="640" height='360'> |
+
+	
+
+
+
 ####Activity切换篇
 | 链接 | 说明 | 预览 |
 | :--: | :--: | :--: |
